@@ -1,6 +1,3 @@
-# OurGroup3WebPage_StyleSheet2
-
-
 <html>
 <head>
     <title>Group 3</title>
