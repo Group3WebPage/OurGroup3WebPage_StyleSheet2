@@ -77,7 +77,7 @@
     <p>We like <strong>Everyday by David Levithan</strong> and <strong>Another Day by David Levithan</strong></p>
 
     <h3 class="section-title">Our Course:</h3>
-    <p>We are taking <strong>Bachelor of Science in Nursing</strong>, <strong></strong> this semester</p>
+    <p>We are taking <strong>Bachelor of Science in Nursing</strong> this semester.</p>
 
     <h3 class="section-title">Some of our Favorite Quotes:</h3>
     <p class="quote">Que Sera Sera: Whatever will be, will be.</p>
@@ -89,5 +89,4 @@
 
 </body>
 </html>
-
 ‎
