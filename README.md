@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
     <title>Group 3</title>
@@ -86,4 +87,3 @@
 
 </body>
 </html>
-‎
