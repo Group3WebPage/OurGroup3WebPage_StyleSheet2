@@ -83,7 +83,7 @@
 ‎    <p class="quote">Whenever we share the goodness in our hearts, we always end up like winning because life is like an echo, it always gives you what you have given.</p>
 ‎
 ‎    <div class="footer">
-‎        &copy; 2024 Bachelor of Science in Nursing 2 Block A | Group 3
+‎        &copy; 2025 Bachelor of Science in Nursing 2 Block A | Group 3
 ‎    </div>
 ‎
 ‎</body>
